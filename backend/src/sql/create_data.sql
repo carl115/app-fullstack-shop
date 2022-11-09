@@ -1,0 +1,1 @@
+INSERT INTO products (product_name, product_price, product_image, units) VALUES(/*Product name*/, /*Product price*/, /*Link image*/, /*Product units*/);
